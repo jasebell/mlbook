@@ -1,0 +1,46 @@
+@relation vehicledata
+
+@attribute wheels numeric
+@attribute chassis numeric
+@attribute pax numeric
+@attribute vtype {Bus,Car,Truck,Bike}
+
+@data
+18,25,2,Truck
+8,21,24,Bus
+18,27,2,Truck
+1,1,1,Bike
+7,23,21,Bus
+18,20,1,Truck
+8,16,30,Bus
+18,28,2,Truck
+7,18,36,Bus
+8,21,27,Bus
+5,2,4,Car
+18,28,1,Truck
+5,1,1,Car
+1,1,1,Bike
+18,27,1,Truck
+5,1,1,Car
+6,15,38,Bus
+7,21,38,Bus
+18,20,2,Truck
+1,1,1,Bike
+18,28,2,Truck
+18,24,2,Truck
+18,20,1,Truck
+1,1,1,Bike
+5,17,18,Bus
+18,27,1,Truck
+4,4,3,Car
+18,21,1,Truck
+5,2,3,Car
+4,3,3,Car
+18,23,1,Truck
+5,20,30,Bus
+5,3,3,Car
+18,28,1,Truck
+5,3,1,Car
+9,13,19,Bus
+1,1,1,Bike
+18,26,2,Truck
